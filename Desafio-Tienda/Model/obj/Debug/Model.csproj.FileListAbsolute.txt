@@ -1,0 +1,6 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Model\bin\Debug\Model.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Model\bin\Debug\Model.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Model\obj\Debug\Model.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Model\obj\Debug\Model.pdb

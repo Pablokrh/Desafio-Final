@@ -1,0 +1,9 @@
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\bin\Debug\Presenter.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\bin\Debug\Presenter.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\obj\Debug\Presenter.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\obj\Debug\Presenter.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\bin\Debug\Model.dll
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\bin\Debug\Model.pdb
+C:\Users\Pcablo\Desktop\Programando\C#\QuarkAcademy\Desafio-Tienda\Presenter\obj\Debug\Presenter.csproj.CopyComplete
